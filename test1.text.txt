@@ -1,0 +1,61 @@
+1. what is the difference between STCL(SOFTWARE TESTING LIFE CYCLE) SDLC(SOFTWARE DEVELOPMENT LIFE CYCLE)?
+     
+                    STLC                                          SDLC
+     1.STLC stands for software testing life cycle.           1.SDLC stands for software development life cycle
+       
+     2.STLC is a sequence of different activities             2.SDLC is a sequence of difference activities
+       performed during the software testing process.           performed during the software development process.
+     
+2.what are the difference between vefication and validation?
+  
+     VERFICATION:
+   
+    verfication is a process the quality of software it includes all activities ie.testing,inspection,design analysisans so on..
+    verfication helps in lowering the number of the defects that may be encountered in the later stages of development.
+    During verification if someone defects are missed then during the validation process they can be caught as failure.
+
+     VALIDATION: 
+     Validation is a process in which the requirement of the customer are actually met by the software functionality.
+     validation is done and at the end of the development process and takes places after verfications are completed.
+
+3.what is authorized and unauthorised?
+    Authorized acess is the use of a computer or network without permission. 
+    unauthorized use of a computer or network without permission.
+
+4.what is test management review and why it is important?
+    The management is a process where testing activities are managed to ensures high quality and high end testing of software
+     application. This method consists tracking,organization, controlling process,check visibility of the testing process in
+     order to deliver the high quality software application.
+
+5.Define clint side and server side validation?
+   when you enter the data, the browser and/or the web server will check to see that the data is in the correct fromat and
+   within the constrains set by the application. 
+            Validation done in the browser is called client-side validation,while validation done on the server is called
+       server-side validation.
+
+6.Explain  the request response flow from front end to back end?
+   I currently understand that in a full overview, a client will be interact with the front-end of a website, the the web site
+    will process that transaction and perhaphs create a file, the file will go to the back-end,backend will do somthing with the file.
+    (perhaps records it in a dbms) and then it will shoot the result.
+
+7.Explain life cycle phases of the project?
+    The project life cycle includes the steps required for the project managers to sucessfully manage a project from start to f‌inish.
+       There are five phases to the project life cycle (also called the 5 process groups)
+    INTIATING,PLANNING,EXECUTING,MONITORING,CONTROLLING AND CLOSING.
+
+8.How do you define sucess?
+   Sucess is the achivement of something that you have been trying to do. sucess is always giving your best. sucess can be achieved
+  when you tried your best in all aspects of everthing you do, even if that doesn't lead to big. the good or bad outcome of an understanding.
+  give yourself the gift of clarity.
+
+9.What are your strength and weakness?
+   My strength are self-motivated and hardworking, attitude, honest, and helping others,I was thought time is very important
+  my family is my strength because they always supported me and they are always with me. I belive that even a negative situation 
+  can easily be handled with a positive approach.
+    My weakness i am too sensitive and sometimes a small thing can hurt a lot. my wakness is i can't say no to someone who ask 
+  something for me.
+
+10.Have you faced any challanging situation and how did you overcome it?
+    Leaerning new things is always challenging for me.But with my sincere efforts, hardwork I make them look easy and simplier.
+  It is beteer way to handle any challenge. I belive challenges make us better. Once a time in my work, I faced a suitation and
+  overcome it with ability with positive attitude towards my resposibility.
